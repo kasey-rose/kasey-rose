@@ -3,6 +3,7 @@
 
 I'm currently a senior at Binghamton University, pursuing my Bachelors degree in **Mathematics**, with a focus on **Actuarial Science**, with a minor in **Digital and Data Studies**. I have a deep passion for mathematics, data visualization, and analytics, and I have developed a solid foundation in the technical skills required to tackle complex data problems. I'm always seeking new experiences and exposure to what I haven't seen before, and I'm excited to apply my skills in real-world scenarios. My primary interest lies in **data analytics**, where I thrive in challenging environments and continuously strive to adapt, learn, and grow in fast-paced, dynamic settings.
 
+
 ### Relevant Coursework ...
 * HARP 150: Intro to Python
 * MATH 329: Intro to Scientific Computing
@@ -15,7 +16,7 @@ I'm currently a senior at Binghamton University, pursuing my Bachelors degree in
 * DIDA 280D: Data Wrangling
 
 
-### I have experience using ...
+### I have experience with ...
 #### Languages/Libraries
 * R
 * Python
