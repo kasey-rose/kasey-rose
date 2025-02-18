@@ -1,6 +1,6 @@
 # Kasey Turtell
 
-I'm currently a senior at Binghamton University, studying Mathematics, on the Actuarial Science track, with a minor in Digital and Data Studies. I have a strong passion for mathematics, data visualization, and analytics, and my experience has equipped me with the technical skills needed to tackle complex data problems, and I am passionate about harnessing data to drive insights and decision-making.
+I'm currently a senior at Binghamton University, pursuing my Bachelors degree in *Mathematics*, on the Actuarial Science track, with a minor in Digital and Data Studies. I have a strong passion for mathematics, data visualization, and analytics, and my experience has equipped me with the technical skills needed to tackle complex data problems, and I am passionate about harnessing data to drive insights and decision-making.
 
 I am particularly interested in data analytics and am eager to apply my skills in the real-world. I thrive on challenges and am always looking to learn and grow in fast-paced environments.
 
