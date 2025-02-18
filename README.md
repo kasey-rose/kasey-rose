@@ -1,4 +1,7 @@
-## Hi there 👋
+# Kasey Turtell
+
+I am currently a senior at Binghamton University, studying Mathematics, on the Actuarial Science track, with a minor in Digital and Data Studies.
+
 
 <!--
 **kasey-rose/kasey-rose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
