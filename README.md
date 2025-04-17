@@ -5,7 +5,6 @@ I'm currently a senior at Binghamton University, pursuing my Bachelors degree in
 
 
 ### Relevant Coursework ...
-* HARP 150: Intro to Python
 * MATH 329: Intro to Scientific Computing
 * DIDA 325: Data & Society
 * DIDA 310: Text Mining
