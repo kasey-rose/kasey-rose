@@ -1,19 +1,18 @@
 # Kasey Turtell
 ## Binghamton University, May 2025
 
-I'm currently a senior at Binghamton University, pursuing my Bachelors degree in **Mathematics**, on the Actuarial Science track, with a minor in **Digital and Data Studies**. I have a deep passion for mathematics, data visualization, and analytics, and I have developed a solid foundation in the technical skills required to tackle complex data problems. I'm always seeking new experiences and exposure to what I haven't seen before, and I'm excited to apply my skills in real-world scenarios. My primary interest lies in **data analytics**, where I thrive in challenging environments and continuously strive to adapt, learn, and grow in fast-paced, dynamic settings.
+I'm currently a senior at Binghamton University, pursuing my Bachelors degree in **Mathematics**, on the Actuarial Science track, with a minor in **Digital and Data Studies**. I have a deep passion for mathematics, data visualization, and analytics, and I have developed a solid foundation in the technical skills required to tackle complex data problems. I'm always seeking new experiences and exposure to what I haven't seen before, and I'm excited to apply my skills in real-world scenarios. My primary interest lies in **data analytics**, where I thrive in challenging environments and continuously strive to adapt, learn, and grow in fast-paced, dynamic settings. I also have a strong interest in history and digital humanities, which allows me to gain perspective on data and the stories numbers can tell over time.
 
 
 ### Relevant Coursework ...
 * MATH 329: Intro to Scientific Computing
-* DIDA 325: Data & Society
-* DIDA 310: Text Mining
 * MATH 455: Intro to Regression Models
 * DIDA 260: Data Visualization
-* DIDA 280W: Interactive Media Design
-* DIDA 426: Community Practice
 * DIDA 280D: Data Wrangling
-
+* DIDA 280W: Interactive Media Design
+* DIDA 310: Text Mining
+* DIDA 325: Data & Society
+* DIDA 426: Community Practice
 
 ### I have experience with ...
 #### Languages/Libraries
